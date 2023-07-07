@@ -8,7 +8,7 @@ import org.springframework.stereotype.Controller;
 public class MeuBean {
 
     public String getMsg() {
-        return  "Olá! Estou usando JSF com Spring, com ajuda do Joinfaces.";
+        return  "Olá! Estou usando JSF integrado com Spring, com a ajuda do Joinfaces.";
     }
 
 }
